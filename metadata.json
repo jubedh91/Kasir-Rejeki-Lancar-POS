@@ -1,0 +1,6 @@
+{
+  "name": "POS Rejeki Lancar",
+  "description": "Sistem Kasir Pintar Toko Plastik - POS ritel, manajemen stok & pembelian, buku kasbon hutang piutang, dan struk digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

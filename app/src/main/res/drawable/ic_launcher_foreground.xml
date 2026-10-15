@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Cash Register / POS Terminal Base -->
+        <path
+            android:fillColor="#E8F5E9"
+            android:pathData="M32,68 L76,68 C78.2,68 80,69.8 80,72 L80,74 C80,76.2 78.2,78 76,78 L32,78 C29.8,78 28,76.2 28,74 L28,72 C28,69.8 29.8,68 32,68 Z" />
+        <!-- Cash Drawer Line & Keyhole -->
+        <path
+            android:fillColor="#1B5E20"
+            android:pathData="M32,72 L76,72 A1,1 0 0 1 76,74 L32,74 A1,1 0 0 1 32,72 Z" />
+        <path
+            android:fillColor="#FBC02D"
+            android:pathData="M52,72 A2,2 0 1 0 56,72 A2,2 0 1 0 52,72 Z" />
+
+        <!-- POS Terminal Screen Body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M34,42 L74,42 C76.2,42 78,43.8 78,46 L78,66 L30,66 L30,46 C30,43.8 31.8,42 34,42 Z" />
+        <!-- Screen Display with Green Glow -->
+        <path
+            android:fillColor="#0D3B22"
+            android:pathData="M34,45 L74,45 L74,59 L34,59 Z" />
+        <!-- Receipt printer roll top -->
+        <path
+            android:fillColor="#E0E0E0"
+            android:pathData="M44,28 L64,28 C65,28 66,29 66,30 L66,42 L42,42 L42,30 C42,29 43,28 44,28 Z" />
+        <!-- Receipt tape with jagged cut -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M44,22 L47,24 L50,22 L53,24 L56,22 L59,24 L62,22 L64,24 L64,36 L44,36 Z" />
+        <!-- Receipt lines -->
+        <path
+            android:fillColor="#9E9E9E"
+            android:pathData="M47,26 L61,26 A1,1 0 0 1 61,27 L47,27 A1,1 0 0 1 47,26 Z M47,29 L58,29 A1,1 0 0 1 58,30 L47,30 A1,1 0 0 1 47,29 Z" />
+
+        <!-- Screen currency symbol "Rp" / checkmark -->
+        <path
+            android:fillColor="#69F0AE"
+            android:pathData="M40,52 L44,56 L52,48 L50,46 L44,52 L42,50 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M56,48 L68,48 L68,50 L56,50 Z M56,53 L64,53 L64,55 L56,55 Z" />
+
+        <!-- Keypad buttons below display -->
+        <path
+            android:fillColor="#C8E6C9"
+            android:pathData="M34,61 L42,61 L42,64 L34,64 Z M45,61 L53,61 L53,64 L45,64 Z M56,61 L64,61 L64,64 L56,64 Z M67,61 L74,61 L74,64 L67,64 Z" />
+
+        <!-- Plastic Bag Accent Icon (Top Right) -->
+        <path
+            android:fillColor="#FFE082"
+            android:pathData="M70,30 C70,27 72,25 75,25 C78,25 80,27 80,30 L83,30 C84.1,30 85,30.9 85,32 L83,44 C82.8,45.1 81.9,46 80.8,46 L69.2,46 C68.1,46 67.2,45.1 67,44 L65,32 C65,30.9 65.9,30 67,30 L70,30 Z M72,30 L78,30 C78,28.5 76.7,27 75,27 C73.3,27 72,28.5 72,30 Z" />
+    </group>
+</vector>
